@@ -2,15 +2,11 @@
 
 Hello, I'm Austin.
 
-Identity & Access Management Engineer | Azure Cloud Security | Identity Governance
-
 I am an IAM Engineer with 5 years of enterprise experience designing and securing identity ecosystems across Azure AD / Entra ID, Okta Identity Cloud, SailPoint ISC, and Delinea Secret Server.
 
 My work focuses on identity governance, privileged access security, and authentication hardening across hybrid and cloud environments.
 
 I am currently expanding deeper into Azure cloud security architecture and identity-driven security controls as part of my long-term goal of becoming a Cloud Security Architect.
-
-⸻
 
 What I’m Currently Working On
 
@@ -26,8 +22,6 @@ Current focus areas include:
 • API integrations and automation using REST APIs and JSON
 
 This repository documents the lab environments, configurations, and automation exercises I am completing as part of my SailPoint ISC training.
-
-⸻
 
 Technologies & Platforms
 

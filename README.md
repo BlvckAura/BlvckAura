@@ -1,6 +1,7 @@
-## Hello!
+<!-- Level 1: Simple bio and stats -->
 
-<!--
+Hello, I'm Austin.
+
 Identity & Access Management Engineer | Azure Cloud Security | Identity Governance
 
 I am an IAM Engineer with 5 years of enterprise experience designing and securing identity ecosystems across Azure AD / Entra ID, Okta Identity Cloud, SailPoint ISC, and Delinea Secret Server.
@@ -66,4 +67,3 @@ Directory & Hybrid Identity
 
 Active Directory
 Azure AD Connect
--->
